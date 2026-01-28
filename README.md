@@ -18,7 +18,7 @@ I am a Software Developer with hands-on internship experience in building real-w
 - **Social Links** – GitHub, LinkedIn, and coding profiles  
 
 ## 🌐 Live Website
-🔗 https://yash-portfolio.netlify.app  
+🔗 https://yashrajbarbole-portfolio.netlify.app  
 
 
 ## 📁 Projects Featured
