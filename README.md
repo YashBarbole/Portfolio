@@ -19,7 +19,7 @@ I am a Software Developer with hands-on internship experience in building real-w
 
 ## 🌐 Live Website
 🔗 https://yash-portfolio.netlify.app  
-*(Replace with your final Netlify URL if different)*
+
 
 ## 📁 Projects Featured
 - Smart Campus Management System  
